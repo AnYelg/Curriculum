@@ -1,0 +1,62 @@
+*
+{
+    font-family: 'Bebas Neue', cursive;
+}
+
+html
+{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #95a3b3;
+    background: linear-gradient(to top, #ffff 30%, #95a3b3 30%)
+}
+
+.div1
+{
+    width: 80%;
+    height: 70%;
+    background-color: #ffff;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    background: linear-gradient(to top, #84DCC6 5%,#84DCC6 15%, #ffff 15%,#ffff 20%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding: 40px;
+    display: flex;
+    flex-wrap:  wrap;
+}
+
+.div2
+{
+    width:90%;
+    height: 20%;
+    padding-top: 4%;
+    margin: none;
+    display: flex;
+}
+
+.div2 a
+{
+    padding-left: 23%;
+}
+
+.div1 h1
+{
+    text-align: center;
+}
+
+.div1 img
+{
+    margin: 10px;
+    height: 80%;
+    
+}
+
+
+.p
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
